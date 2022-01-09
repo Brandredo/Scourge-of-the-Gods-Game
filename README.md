@@ -10,6 +10,11 @@ Scourge of The Gods is a first person Player vs Boss game. As the player, the ob
 
 ## UI / Interface
 
+### Main menu and gameplay instructions
+![This is an image](https://github.com/Brandredo/Scourge-of-the-Gods-Game/blob/main/Images/Screen%20Shot%202022-01-08%20at%209.04.11%20PM.png)
+![This is an image](https://github.com/Brandredo/Scourge-of-the-Gods-Game/blob/main/Images/Screen%20Shot%202022-01-08%20at%209.04.15%20PM.png)
+
+### Map 
 ![This is an image](https://github.com/Brandredo/Scourge-of-the-Gods-Game/blob/main/Images/Screen%20Shot%202022-01-08%20at%208.58.33%20PM.png)
 ![This is an image](https://github.com/Brandredo/Scourge-of-the-Gods-Game/blob/main/Images/Screen%20Shot%202022-01-08%20at%209.00.14%20PM.png)
 ![This is an image](https://github.com/Brandredo/Scourge-of-the-Gods-Game/blob/main/Images/Screen%20Shot%202022-01-08%20at%209.00.33%20PM.png)
@@ -22,8 +27,8 @@ Scourge of The Gods is a first person Player vs Boss game. As the player, the ob
 
 ![This is an image](https://github.com/Brandredo/Scourge-of-the-Gods-Game/blob/main/Images/Screen%20Shot%202022-01-08%20at%209.03.21%20PM.png)
 ![This is an image](https://github.com/Brandredo/Scourge-of-the-Gods-Game/blob/main/Images/Screen%20Shot%202022-01-08%20at%209.03.52%20PM.png)
-![This is an image](https://github.com/Brandredo/Scourge-of-the-Gods-Game/blob/main/Images/Screen%20Shot%202022-01-08%20at%209.04.11%20PM.png)
-![This is an image](https://github.com/Brandredo/Scourge-of-the-Gods-Game/blob/main/Images/Screen%20Shot%202022-01-08%20at%209.04.15%20PM.png)
+
+### Turtle Boss
 
 ![This is an image](https://github.com/Brandredo/Scourge-of-the-Gods-Game/blob/main/Images/Screen%20Shot%202022-01-08%20at%209.13.49%20PM.png)
 ![This is an image](https://github.com/Brandredo/Scourge-of-the-Gods-Game/blob/main/Images/Screen%20Shot%202022-01-08%20at%209.14.16%20PM.png)
