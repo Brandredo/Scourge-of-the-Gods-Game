@@ -2,7 +2,7 @@
 
 ## Link to Game
 Because the file is too large in size, the code is hosted on Google Drive:
-- Scourge of the Gods: [onedrive_link](https://drive.google.com/drive/folders/1yldr7fQazVjlbX_z92E_fOwIVEhPaX7e?usp=sharing).
+- Scourge of the Gods: [Google Drive Link](https://drive.google.com/drive/folders/1yldr7fQazVjlbX_z92E_fOwIVEhPaX7e?usp=sharing).
 
 ## Description
 
